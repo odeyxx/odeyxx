@@ -1,4 +1,4 @@
-# Hi there 👋
+#    Hi there 👋
 
 I’m Odey Khello, a Computer Engineering student working on my BS and exploring exciting projects.
 
